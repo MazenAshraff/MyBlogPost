@@ -1,4 +1,6 @@
 @import url(Cards.css);
+@import url(homestyle.css);
+@import url(img.css);
 * {
     margin: 0;
     padding: 0;
@@ -60,11 +62,6 @@ header a:hover {
 a {
     color: #90c2e7;
     text-decoration: none;
-}
-
-#side {
-    height: 40%;
-    width: 30%;
 }
 
 footer {
