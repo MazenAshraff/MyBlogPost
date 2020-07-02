@@ -1,0 +1,33 @@
+.MainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 80%;
+    background-color: aliceblue;
+    margin: 10%;
+    margin-left: 20%;
+    padding: 1%;
+    border-radius: 5%;
+}
+
+#avatar {
+    object-fit: contain;
+    border-radius: 70%;
+    height: 30%;
+    width: 30%;
+}
+
+#cf {
+    width: 40px;
+}
+
+#MyBio {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#studyarea {
+    text-decoration: underline;
+}
